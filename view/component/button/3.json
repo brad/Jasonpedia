@@ -71,7 +71,7 @@
                 },
                 {
                   "type": "button",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/0.png",
+                  "url": "/assets/0.png",
                   "style": {
                     "width": "50"
                   },
@@ -126,7 +126,7 @@
                     "padding": "10",
                     "corner_radius": "3"
                   },
-                  "text": "{\"type\": \"button\", \"url\": \"https://jasonette.github.io/Jasonpedia/assets/0.png\"}"
+                  "text": "{\"type\": \"button\", \"url\": \"/assets/0.png\"}"
                 }
               ]
             }

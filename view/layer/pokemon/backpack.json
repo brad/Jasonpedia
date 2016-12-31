@@ -6,7 +6,7 @@
         "$load": {
           "type": "$network.request",
           "options": {
-            "url": "https://jasonette.github.io/Jasonpedia/view/layer/pokemon/db.json"
+            "url": "db.json"
           },
           "success": {
             "type": "$render"
@@ -75,7 +75,7 @@
                     }
                   ],
                   "href": {
-                    "url": "https://jasonette.github.io/Jasonpedia/view/layer/pokemon/more.json"
+                    "url": "more.json"
                   }
                 }
               ]

@@ -28,7 +28,7 @@
                   "type": "camera"
                 }
               }
-            }, 
+            },
             {
               "{{#elseif 'options' in $get.background}}": {
                 "background": {
@@ -60,7 +60,7 @@
         "backpack": {
           "type": "$href",
           "options": {
-            "url": "https://jasonette.github.io/Jasonpedia/view/layer/pokemon/backpack.json",
+            "url": "backpack.json",
             "transition": "modal"
           }
         },

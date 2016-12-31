@@ -7,14 +7,14 @@
           "profile": "https://pbs.twimg.com/profile_images/557061751150112768/eMwi4Xz2_400x400.jpeg",
           "username": "gliechtenstein"
         }, {
-          "username": "guest" 
+          "username": "guest"
         }, {
           "profile": "https://pbs.twimg.com/profile_images/693649835086360577/xPofOC6p.png",
           "username": "catsnacks"
         }, {
-          "username": "guest" 
+          "username": "guest"
         }, {
-          "username": "guest" 
+          "username": "guest"
         }]
       },
       "templates": {
@@ -51,7 +51,7 @@
                   "url": [{
                     "{{#if 'profile' in this}}": "{{profile}}"
                   }, {
-                    "{{#else}}": "https://jasonette.github.io/Jasonpedia/assets/egg.png"
+                    "{{#else}}": "/assets/egg.png"
                   }]
                 }, {
                   "type": "vertical",

@@ -37,7 +37,7 @@
               "text": "Stopwatch",
               "class": "bold",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/timer/stopwatch.json"
+                "url": "stopwatch.json"
               }
             },
             {
@@ -45,7 +45,7 @@
               "text": "Mario",
               "class": "bold",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/timer/mario.json"
+                "url": "mario.json"
               }
             }
           ]

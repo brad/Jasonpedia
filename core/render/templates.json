@@ -13,19 +13,19 @@
       "data": {
         "members": [{
           "name": "Bart",
-          "image": "https://jasonette.github.io/Jasonpedia/assets/bart.png"
+          "image": "/assets/bart.png"
         }, {
           "name": "Homer",
-          "image": "https://jasonette.github.io/Jasonpedia/assets/homer.jpg"
+          "image": "/assets/homer.jpg"
         }, {
           "name": "Marge",
-          "image": "https://jasonette.github.io/Jasonpedia/assets/marge.png"
+          "image": "/assets/marge.png"
         }, {
           "name": "Lisa",
-          "image": "https://jasonette.github.io/Jasonpedia/assets/lisa.jpg"
+          "image": "/assets/lisa.jpg"
         }, {
           "name": "Maggie",
-          "image": "https://jasonette.github.io/Jasonpedia/assets/maggie.png"
+          "image": "/assets/maggie.png"
         }]
       },
       "styles": {
@@ -89,7 +89,7 @@
             "type": "horizontal",
             "header": {
               "type": "image",
-              "url": "https://jasonette.github.io/Jasonpedia/assets/simpsons.jpg",
+              "url": "/assets/simpsons.jpg",
               "style": {
                 "width": "100%",
                 "padding": "0",
@@ -159,7 +159,7 @@
           "sections": [{
             "header": {
               "type": "image",
-              "url": "https://jasonette.github.io/Jasonpedia/assets/simpsons.jpg",
+              "url": "/assets/simpsons.jpg",
               "style": {
                 "width": "100%",
                 "padding": "0",

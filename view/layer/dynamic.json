@@ -69,7 +69,7 @@
       "templates": {
         "body": {
           "style": {
-            "background": "https://jasonette.github.io/Jasonpedia/assets/mariobackground.jpg"
+            "background": "/assets/mariobackground.jpg"
           },
           "header": {
             "style": {
@@ -144,7 +144,7 @@
             }
           }, {
             "type": "image",
-            "url": "https://jasonette.github.io/Jasonpedia/assets/0.png",
+            "url": "/assets/0.png",
             "style": "{{$get.style}}"
           }]
         }

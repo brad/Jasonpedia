@@ -34,7 +34,7 @@
               "text": "Push transition to another Jason View",
               "class": "bold",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/core/href/index.json"
+                "url": "index.json"
               }
             },
             {
@@ -42,7 +42,7 @@
               "text": "Push transition to another Jason View with tabs",
               "class": "bold",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/core/href/tabs.json"
+                "url": "tabs.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "text": "Modal transition to another Jason View",
               "class": "bold",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/core/href/index.json",
+                "url": "index.json",
                 "transition": "modal"
               }
             },
@@ -59,7 +59,7 @@
               "text": "Modal transition to another Jason View with tabs",
               "class": "bold",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/core/href/tabs.json",
+                "url": "tabs.json",
                 "transition": "modal"
               }
             },

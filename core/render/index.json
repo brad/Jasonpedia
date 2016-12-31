@@ -35,7 +35,7 @@
             {
               "type": "vertical",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/core/render/templates.json"
+                "url": "templates.json"
               },
               "components": [{
                 "type": "label",

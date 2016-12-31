@@ -83,7 +83,7 @@
             "action": {
               "type": "$audio.play",
               "options": {
-                "url": "https://jasonette.github.io/Jasonpedia/assets/1up.mp3"
+                "url": "/assets/1up.mp3"
               }
             },
             "style": {
@@ -97,7 +97,7 @@
             }
           }, {
             "type": "image",
-            "url": "https://jasonette.github.io/Jasonpedia/assets/0.png",
+            "url": "/assets/0.png",
             "style": {
               "width": "86",
               "height": "175",

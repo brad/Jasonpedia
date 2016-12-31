@@ -199,7 +199,7 @@
             {
               "class": "padded",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/addressbook.json"
+                "url": "addressbook.json"
               },
               "type": "label",
               "text": "$util.addressbook"
@@ -331,7 +331,7 @@
                 "align": "left"
               },
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/network/index.json"
+                "url": "network/index.json"
               }
             }
           ]
@@ -353,7 +353,7 @@
                 "align": "left"
               },
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/variable/index.json"
+                "url": "variable/index.json"
               }
             }
           ]
@@ -375,7 +375,7 @@
                 "align": "left"
               },
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/geo/index.json"
+                "url": "geo/index.json"
               }
             }
           ]
@@ -397,7 +397,7 @@
                 "align": "left"
               },
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/timer/index.json"
+                "url": "timer/index.json"
               }
             }
           ]

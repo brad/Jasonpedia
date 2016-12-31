@@ -6,7 +6,7 @@
         "$load": {
           "type": "$network.request",
           "options": {
-            "url": "https://jasonette.github.io/Jasonpedia/template/csv",
+            "url": "csv",
             "dataType": "raw"
           },
           "success": {
@@ -27,7 +27,7 @@
             "menu": {
               "text": "View JSON",
               "href": {
-                "url": "https://github.com/Jasonette/Jasonpedia/blob/gh-pages/template/csv.json",
+                "url": "csv.json",
                 "view": "web"
               }
             }

@@ -92,7 +92,7 @@
                 {
                   "type": "image",
                   "class": "carousel_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/homer.jpg"
+                  "url": "/assets/homer.jpg"
                 },
                 {
                   "type": "label",
@@ -131,7 +131,7 @@
                 {
                   "type": "image",
                   "class": "carousel_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/marge.png"
+                  "url": "/assets/marge.png"
                 },
                 {
                   "type": "label",
@@ -170,7 +170,7 @@
                 {
                   "type": "image",
                   "class": "carousel_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/bart.png"
+                  "url": "/assets/bart.png"
                 },
                 {
                   "type": "label",
@@ -209,7 +209,7 @@
                 {
                   "type": "image",
                   "class": "carousel_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/lisa.jpg"
+                  "url": "/assets/lisa.jpg"
                 },
                 {
                   "type": "label",
@@ -248,7 +248,7 @@
                 {
                   "type": "image",
                   "class": "carousel_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/maggie.png"
+                  "url": "/assets/maggie.png"
                 },
                 {
                   "type": "label",
@@ -310,7 +310,7 @@
                 {
                   "type": "image",
                   "class": "avatar_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/homer.jpg"
+                  "url": "/assets/homer.jpg"
                 },
                 {
                   "type": "vertical",
@@ -339,7 +339,7 @@
                 {
                   "type": "image",
                   "class": "avatar_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/marge.png"
+                  "url": "/assets/marge.png"
                 },
                 {
                   "type": "vertical",
@@ -368,7 +368,7 @@
                 {
                   "type": "image",
                   "class": "avatar_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/bart.png"
+                  "url": "/assets/bart.png"
                 },
                 {
                   "type": "vertical",
@@ -397,7 +397,7 @@
                 {
                   "type": "image",
                   "class": "avatar_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/lisa.jpg"
+                  "url": "/assets/lisa.jpg"
                 },
                 {
                   "type": "vertical",
@@ -426,7 +426,7 @@
                 {
                   "type": "image",
                   "class": "avatar_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/maggie.png"
+                  "url": "/assets/maggie.png"
                 },
                 {
                   "type": "vertical",
@@ -539,7 +539,7 @@
                 {
                   "type": "image",
                   "class": "avatar_img",
-                  "url": "https://jasonette.github.io/Jasonpedia/assets/krusty.png"
+                  "url": "/assets/krusty.png"
                 },
                 {
                   "type": "vertical",
